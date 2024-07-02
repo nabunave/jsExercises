@@ -1,0 +1,62 @@
+Difficulty Level: Low
+
+If I choose rock and my partner stone, then there is a tie.
+If I choose rock and my partner paper, then he wins.
+If I choose rock and my partner scissors, then I win.
+If I choose paper and my partner too, then there is a tie.
+If I choose paper and my partner scissors, then he wins.
+If I choose paper and my partner rock, then he wins.
+If I choose scissors and my partner too, then there is a tie.
+If I choose scissors and my partner rock, then he wins.
+If I choose scissors and my partner paper,then he wins.
+
+IF IT'S RAINING, I use umbrella ☔. ACTION
+IF IT'S COLD, I cover up. Action
+IF it's night, I LOOK AT THE STARS. CONDITION
+IF i'm hungry, I EAT AN EMPANADA. CONDITION
+IF i'm bored, I READ A BOOK. CONDITION
+IF THEY GIVE ME A GIFT, i get happy. ACTION
+
+
+Diagrama 1
+Comenzar 
+Ejecutar tarea 1
+Si la condición es SÍ 
+Ejecutar tarea 2
+Ejecutar tarea 3 
+Ejecutar tarea 4
+Fin
+
+Diagrama 2
+Comenzar 
+Ejecutar tarea 1
+Si la condición es SÍ 
+Ejecutar tarea 2
+Ejecutar tarea 3 
+Fin
+Si la condición es No
+Ejecutar tarea 4
+Fin
+
+
+
+
+Diagrama 3
+Comenzar 
+Ejecutar tarea 1
+Si la condición es SÍ 
+Ejecutar tarea 2
+Fin
+
+Diagrama 4
+Comenzar 
+Ejecutar tarea 1
+Si la condición es SÍ 
+	Si la condición es Sí
+Ejecutar tarea 2
+Fin
+
+No se utiliza else porque se evalúan condicionales de una sola condición. 
+Tarea 2 y 3 estan tabuladas porque son derivadas del “si”, es decir se ejecutarían solo si entra en ese “si” la condición.
+
+
