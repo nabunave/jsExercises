@@ -1,0 +1,132 @@
+Loops Exercises
+
+1.
+Nos lo podría explicar diciéndonos que realizó la tarea de levantarse y sentarse 3 veces seguidas.
+
+2.
+Inicio
+Definir número de personas
+Iterar sobre cada posición:
+Para cada posición i desde 1 hasta num_personas:
+Colocar el plato en el centro.
+Colocar el tenedor a la izquierda del plato.
+Colocar el cuchillo a la derecha del plato.
+Colocar el vaso al frente del plato.
+
+Preparar Mesa para 15 Personas:
+Definir num_personas = 15.
+Seguir los pasos del algoritmo anterior.
+
+Preparar Mesa para 50 Personas:
+Definir num_personas = 50.
+Seguir los mismos pasos del algoritmo anterior.
+
+3.
+Prueba de escritorio
+Inicialización
+i = 10
+Condición
+La condición es i <= 20.
+Incremento
+i++ (aumenta en 1 en cada iteración).
+Iteraciones
+i = 10
+
+Se imprime: 'Número actual: 10'
+i incrementa a 11
+i = 11
+
+Se imprime: 'Número actual: 11'
+i incrementa a 12
+i = 12
+
+Se imprime: 'Número actual: 12'
+i incrementa a 13
+i = 13
+
+Se imprime: 'Número actual: 13'
+i incrementa a 14
+i = 14
+
+Se imprime: 'Número actual: 14'
+i incrementa a 15
+i = 15
+
+Se imprime: 'Número actual: 15'
+i incrementa a 16
+i = 16
+
+Se imprime: 'Número actual: 16'
+i incrementa a 17
+i = 17
+
+Se imprime: 'Número actual: 17'
+i incrementa a 18
+i = 18
+
+Se imprime: 'Número actual: 18'
+i incrementa a 19
+i = 19
+
+Se imprime: 'Número actual: 19'
+i incrementa a 20
+i = 20
+
+Se imprime: 'Número actual: 20'
+i incrementa a 21
+Fin del bucle
+Cuando i incrementa a 21, la condición i <= 20 ya no se cumple, y el bucle termina.
+
+Salida en pantalla
+
+La salida en pantalla será:
+Número actual: 10
+Número actual: 11
+Número actual: 12
+Número actual: 13
+Número actual: 14
+Número actual: 15
+Número actual: 16
+Número actual: 17
+Número actual: 18
+Número actual: 19
+Número actual: 20
+
+4.
+Inicio
+Romper los huevos en un bowl.
+Añadir sal y pimienta.
+Batir los huevos hasta que queden esponjosos.
+Calentar una sartén a fuego medio y agregar un poco de aceite.
+Poner los huevos batidos en la sartén caliente.
+Cocinar los huevos hasta que estén cocidos.
+Con una espátula, levantar los bordes de la tortilla para permitir que el huevo crudo fluya hacia abajo.
+Esperar a que los huevos estén cocidos.
+Con cuidado, voltear la tortilla para cocinar el otro lado.
+Cocinar el otro lado hasta que esté dorado y el centro esté completamente cocido.
+Retirar la tortilla de la sartén y ponerla en un plato.
+Servir caliente y disfrutar.
+Fin
+
+5.
+a) Según el algoritmo, ¿se debe apagar el interruptor de la luz en todos los casos? 
+Si, esta fuera del condicional
+
+b) Según el algoritmo, ¿se debe buscar una escalera en todos los casos? 
+No, solo “si” esta demasiado alta
+c) ¿Cuál es la condición que se debe cumplir para dejar de desatornillar? 
+La de la acción hasta desenroscar la bombilla.
+ 
+d) ¿Se podría sustituir “Repetir hasta que se desenrosque la bombilla” por “Repetir cuatro veces” (o un for que se repita 4 veces)?
+¿En tu opinión cuál es la diferencia entre ambas opciones? 
+No se podría porque no sabríamos cuando se termino de desenroscar, la diferencia es que una condición se cumple solo hasta que se desenrosque la bombilla, 
+la otra define una cantidad de veces a realizar la acción.
+
+e) ¿Tiene algún comentario sobre el paso “Bajar la escalera”? ¿Se hace siempre? ¿Dónde y cómo realizarías el procedimiento con los pasos para colocar el bulbo sano?
+No se hace siempre, se hace solo si la bombilla esta muy alta.
+
+
+
+
+
+
